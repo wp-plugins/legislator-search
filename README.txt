@@ -5,7 +5,7 @@ Requires at least: 3.0.0
 Tested up to: 3.3.1
 Stable tag: 4.3
 
-Adds a widget that allows users to search for their US congressional legislators.  Requires a [Sunlight Labs API key](http://www.sunlightlabs.com "Sunlight Labs").
+Adds a widget that allows users to search for their US congressional legislators.  Requires a Sunlight Labs API Key.
 
 == Description ==
 
