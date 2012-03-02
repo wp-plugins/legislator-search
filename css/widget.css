@@ -1,0 +1,22 @@
+#legislator_search_zip {
+	background: url('../images/search.png') no-repeat 5px 6px;
+	padding: 4px 10px 4px 28px;
+}
+
+#legislator_search_response {
+	display: none;
+}
+
+#legislator_search_response .photo {
+	float: left;
+	margin-right: 5px;
+}
+
+#legislator_search_response ul li {
+	clear: both;	
+	height: 75px;
+}
+
+.legislator_search_zip_pending {
+	background: url('../images/pending.gif') no-repeat 6px 7px !important;
+}
